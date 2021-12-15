@@ -244,3 +244,9 @@ $ cd electron-quick-start
 # 애플리케이션의 의존성 모듈을 설치한 후 실행합니다
 $ npm install && npm start
 ```
+
+### Boilerplates
+
+- electron 공식 사이트에서 tools, boilerplates 제공
+
+https://www.electronjs.org/community#boilerplates
